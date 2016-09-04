@@ -18,6 +18,7 @@ tags:
 各种第三方评论使用方法大同小异，本博客已多说评论作为例子。
 
 1. 首先去多说官网，点击我要安装，然后会调到登录注册页面，注册一个账号进去。
+
 2. 按照说明很容易的填写站点相关资料
 
  	![](http://hlfshy.github.io/img/in-post/duoshuo-reg.jpg)
@@ -32,7 +33,7 @@ tags:
 		<!-- 多说公共JS代码 start (一个网页只需插入一次) -->
 
 		<script type="text/javascript">
-		var duoshuoQuery = {short_name:"这里是你的多说名"};
+		var duoshuoQuery = {short_name:"****"};
 		(function() {
 			var ds = document.createElement('script');
 			ds.type = 'text/javascript';ds.async = true;
@@ -44,7 +45,7 @@ tags:
 		</script>
 **注意：其中data-thread-key请保证唯一性，本博客是使用了Url保证唯一性**
 
-4. 然后balabala...没有然后了，就这么简单，快登陆看看效果吧！
+4. 然后balabala...没有然后了，就这么简单，快试试看看效果吧！
 
 
 
