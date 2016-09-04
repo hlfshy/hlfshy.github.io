@@ -81,4 +81,9 @@ featured-condition-size: 0             # A tag will be featured if the size of i
 
 
 # Friends
-#
+friends: [
+    {
+        title: "Hux",
+        href: "http://huangxuan.me/"
+    }
+]
