@@ -25,7 +25,7 @@ tags:
 
  ![](http://hlfshy.github.io/img/in-post/duoshuo-reg.jpg)
 
-### 然后进入后台就能看到公共代码，如下：
+### 然后进入多说后台就能看到公共代码，稍作修改，复制到文章页就OK了
 
 		<!-- 多说评论框 start -->
 		<div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="请替换成文章的标题" data-url="请替换成文章的网址">
@@ -45,7 +45,9 @@ tags:
 			 || document.getElementsByTagName('body')[0]).appendChild(ds);
 		})();
 		</script>
+
 **注意：其中data-thread-key请保证唯一性，本博客是使用了Url保证唯一性**
+
 
 ### 然后balabala...没有然后了，就这么简单，快试试看看效果吧！
 
