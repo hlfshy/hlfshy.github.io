@@ -4,7 +4,7 @@ title:      "在Github中使用评论"
 subtitle:   ""
 date:       2016-02-23 13:00:00
 author:     "HLF"
-header-img: "img/post-bg-digital-native"
+header-img: "img/post-bg-digital-native.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
