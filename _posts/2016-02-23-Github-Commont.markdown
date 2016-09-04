@@ -17,11 +17,11 @@ tags:
 
 各种第三方评论使用方法大同小异，本博客以多说评论作为例子。
 
-# 首先去多说官网，点击页面中的 我要安装，然后会调到登录注册页面，注册一个账号进去。
+# 首先去多说官网，点击页面中的 我要安装
 
-![](http://hlfshy.github.io/img/in-post/woyaoanzhuang.jpg)	
+![](http://hlfshy.github.io/img/in-post/woyaoanzhuang.jpg)
 
-# 按照说明很容易的填写站点相关资料
+#然后会跳到登录注册页面，注册一个账号进去。按照说明很容易的填写站点相关资料
 
  ![](http://hlfshy.github.io/img/in-post/duoshuo-reg.jpg)
 
