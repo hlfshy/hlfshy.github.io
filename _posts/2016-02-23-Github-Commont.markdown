@@ -17,15 +17,15 @@ tags:
 
 各种第三方评论使用方法大同小异，本博客以多说评论作为例子。
 
-# 首先去多说官网，点击页面中的 我要安装
+### 首先去多说官网，点击页面中的 我要安装
 
 ![](http://hlfshy.github.io/img/in-post/woyaoanzhuang.jpg)
 
-#然后会跳到登录注册页面，注册一个账号进去。按照说明很容易的填写站点相关资料
+### 然后会跳到登录注册页面，注册一个账号进去。按照说明很容易的填写站点相关资料
 
  ![](http://hlfshy.github.io/img/in-post/duoshuo-reg.jpg)
 
-# 然后进入后台就能看到公共代码，如下：
+### 然后进入后台就能看到公共代码，如下：
 
 		<!-- 多说评论框 start -->
 		<div class="ds-thread" data-thread-key="请将此处替换成文章在你的站点中的ID" data-title="请替换成文章的标题" data-url="请替换成文章的网址">
@@ -47,7 +47,7 @@ tags:
 		</script>
 **注意：其中data-thread-key请保证唯一性，本博客是使用了Url保证唯一性**
 
-# 然后balabala...没有然后了，就这么简单，快试试看看效果吧！
+### 然后balabala...没有然后了，就这么简单，快试试看看效果吧！
 
 
 
