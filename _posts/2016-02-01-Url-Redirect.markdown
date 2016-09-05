@@ -40,7 +40,7 @@ JavaScript跳转可谓是花样百出，各显神通。
 第一种：最常见的方法
 
     <script language="javascript">
-    	window.location.href="index.php";
+    	window.location.href="http://hlfshy.github.io";
     </script>
 
 第二种：类似后退，很常用而是很容易出问题的地方
