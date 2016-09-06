@@ -84,11 +84,7 @@ featured-condition-size: 0             # A tag will be featured if the size of i
 friends: [
 
     {
-        title: "梁芝的博客",
-        href: "http://xuanhaoguo.com"
-    },
-    {
         title: "Hux",
         href: "http://huangxuan.me/"
-    },
+    }
 ]
