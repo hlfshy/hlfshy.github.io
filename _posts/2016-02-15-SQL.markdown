@@ -296,9 +296,6 @@ tinyint类型最大存储是255。
 * 数据安全性
     InnoDB表比MyISAM表更安全，因为InnoDB具有崩溃恢复能力。
 
-## 如何选择表引擎
-
-> InnoDB支持行锁、事务。如果应用中需要执行大量的读写操作，应该选择InnoDB，这样可以提高多用户并发操作的性能。在MySQL5.5之后版本，Oracle已经很少支持MyISAM了，所以建议优先选择InnoDB引擎。
 
 ************************
 ## SQL优化与合理利用索引
@@ -313,7 +310,7 @@ tinyint类型最大存储是255。
     slow_query_log_file = mysql.slow
     long_query_time = 0.05       # 超过1秒的SQL会记录下来
 
-### SQL语句优化建议
+## SQL语句优化建议
 * 避免使用子查询，可以用left join表连接替换
 * limit分页优化
 
@@ -347,7 +344,7 @@ tinyint类型最大存储是255。
 只有当某列被用于where子句时，才能享受索引性能提升的好处。如果不使用索引，它就没有价值，而且会带来维护上的开销。
 
 
-### 索引常见用法
+#### 索引常见用法
 * 依据where查询条件建立索引
 
         select a,b from tab_a where c = ? //应该给c建立索引
@@ -442,7 +439,3 @@ tinyint类型最大存储是255。
         select * from user where sex = 1  and  id > 1  //这条语句更加好
 
 10. 使用预处理语句。例如使用PDO来操作mysql
-
-
-
-
