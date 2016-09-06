@@ -4,13 +4,13 @@ title:      "MySQL优化"
 subtitle:   ""
 date:       2016-02-15 13:00:00
 author:     "HLF"
-header-img: "img/post-bg-re-vs-ng2.jpg"
+header-img: "img/post-bg-os-metro.jpg"
 header-mask: 0.3
 catalog:    true
 tags:
     - php
-    - 跳转
-    - web
+    - mysql
+    
 
 ---
 
