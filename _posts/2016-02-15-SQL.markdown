@@ -10,7 +10,7 @@ catalog:    true
 tags:
     - php
     - mysql
-    
+
 
 ---
 
@@ -44,7 +44,7 @@ tags:
 
 #### 数字类型
 
-![](../img/in-post/2016-08-05_201403.png)
+![](http://hlfshy.github.io/img/in-post/2016-08-05_201403.png)
 
 tinyint类型最大存储是255。
 
