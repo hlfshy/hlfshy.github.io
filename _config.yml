@@ -86,5 +86,8 @@ friends: [
     {
         title: "Hux",
         href: "http://huangxuan.me/"
+        
+        title: "快递查询",
+        href: "https://m.kuaidi100.com"
     }
 ]
